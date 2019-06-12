@@ -1,0 +1,17 @@
+h1{
+  color:#E4EDDB;
+  text-align:center;
+  padding-left:center;
+}
+img{
+  width:710px;
+  height:400px;
+}
+@media Screen and (max-width: 1024px){
+img{
+    padding-left:130px;
+}
+}
+body{
+  background-color:#1A3C40;
+}
